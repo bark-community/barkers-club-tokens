@@ -1,0 +1,17 @@
+{
+  "name": "soulbound",
+  "version": "1.0.0",
+  "description": "The BARKers Club SoulBound Tokens project aims to create unique SoulBound Tokens for members of the BARKERS Club team using the Solana blockchain. Each member will have their own token, and there will also be a group token representing the entire BARKER´S Club.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "BARK Protocol",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/spl-token": "^0.4.6",
+    "@solana/spl-token-metadata": "^0.1.4",
+    "@solana/web3.js": "^1.92.3"
+  }
+}
